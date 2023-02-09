@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+   background-color: brown;
+   font-size: 30px;
+   display: flex;
+   justify-content:space-between;
+   padding: 10px;
+   color: aliceblue;
+}
+.section{
+    margin: 10px;
+    padding: 10px;
+
+}
+.button{
+    width: 60px;
+    float: right;
+    margin-right: 20px;
+    border-radius: 3px;
+}
+.button1{
+    width: 80px;
+    float: left;
+    margin-left: 20px;
+    border-radius: 3px;
+}
